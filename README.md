@@ -17,5 +17,8 @@ The application has a continuous operation mode. It consists in activating the t
 
 The second operating mode is the scheduler mode. It is possible to configure the device in such a way that on a given day in a given time period (from an hour to an hour) the controller turns on the appropriate channels. Seven items can be programmed (suitable for each day of the week).
 
+## Demo
+https://youtu.be/OatHs5Z4SgE
+
 ## Final remarks
 The device hardware layer could not be published.
